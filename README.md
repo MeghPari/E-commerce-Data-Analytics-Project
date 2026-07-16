@@ -184,6 +184,5 @@ This project is intended for learning and portfolio purposes.
 
 **Lalit Parihar**
 
-GitHub: https://github.com/your-username
+LinkedIn: www.linkedin.com/in/lalit-kumar-parihar-990a2824a
 
-LinkedIn: https://linkedin.com/in/your-profile
